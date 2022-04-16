@@ -1,2 +1,1 @@
-        # current = parent
-            # parent = (current-1)//2
+listToOrder(list)
