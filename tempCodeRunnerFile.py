@@ -1,1 +1,0 @@
-listToOrder(list)

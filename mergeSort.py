@@ -45,7 +45,13 @@ def mergeTwoSortedLists(listA,listB):
 def main():
 
 
-    test = [[50,20,22,-3,25,-22],[],[5],[1,2,3,4],[0,2,5,7]]
+    test = [
+    [50,20,22,-3,25,-22],
+    [],
+    [5],
+    [1,2,3,4],
+    [0,2,5,7]
+    ]
 
     for list in test:
 
