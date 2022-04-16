@@ -17,6 +17,7 @@ def mergeTwoSortedLists(listA,listB):
         i+=1
     while j<b:
         sortedList.append(listB[j])
+        j+=1
 
     return sortedList
 
