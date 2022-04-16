@@ -23,7 +23,7 @@ def mergeTwoSortedLists(listA,listB):
 
 def main():
     listA = [1,2,3,40,50,100]
-    listB = [20,25,55,95,66,90]
+    listB = [20,25,55,95,100,120]
 
     print(mergeTwoSortedLists(listA,listB))
 main()
