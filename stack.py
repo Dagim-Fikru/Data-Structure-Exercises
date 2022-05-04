@@ -20,10 +20,10 @@ class Stack:
 
 def main():
     myStack = Stack()
-    myStack.push(10)
-    myStack.push(20)
-    myStack.push(25)
-    myStack.push(30)
+    # myStack.push(10)
+    # myStack.push(20)
+    # myStack.push(25)
+    # myStack.push(30)
     
     while (myStack.getSize()>0):
         print(myStack.pop() , end=' ')
